@@ -1,0 +1,46 @@
+
+> nexus@0.0.0 dev
+> vite
+
+
+  VITE v8.0.7  ready in 5107 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  Vue DevTools: Open http://localhost:5173/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+15:02:20 [vite] vite.config.ts changed, restarting server...
+15:02:21 [vite] server restarted.
+
+  ➜  Local:   http://localhost:8090/
+  ➜  Network: use --host to expose
+  ➜  Vue DevTools: Open http://localhost:8090/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+15:25:23 [vite] vite.config.ts changed, restarting server...
+15:25:23 [vite] vite.config.ts changed, restarting server...
+15:25:24 [vite] server restarted.
+15:25:41 [vite] vite.config.ts changed, restarting server...
+15:25:42 [vite] server restarted.
+
+  ➜  Local:   http://localhost:8091/
+  ➜  Network: use --host to expose
+  ➜  Vue DevTools: Open http://localhost:8091/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+15:26:53 [vite] vite.config.ts changed, restarting server...
+15:26:53 [vite] server restarted.
+
+  ➜  Local:   http://localhost:8090/
+  ➜  Network: use --host to expose
+  ➜  Vue DevTools: Open http://localhost:8090/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+
+> nexus@0.0.0 dev
+> vite
+
+
+  VITE v8.0.7  ready in 5381 ms
+
+  ➜  Local:   http://localhost:8090/
+  ➜  Network: use --host to expose
+  ➜  Vue DevTools: Open http://localhost:8090/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
